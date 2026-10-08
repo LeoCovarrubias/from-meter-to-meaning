@@ -6,7 +6,7 @@ This is not original primary research. It is an interpretation of a published in
 
 ## The paper
 
-[PDF](paper/paper.pdf) · [LaTeX source](paper/paper.tex)
+[PDF](paper.pdf) · [LaTeX source](paper.tex)
 
 **Abstract.** Organizations now consume AI through many models in many places, and most can see a fair part of what they spend. Yet roughly three in four cannot confidently show a business outcome to the CFO, and the largest single challenge respondents name is proving value, not paying less. This text argues that the unit of account has outrun the unit of value: the difficulty has migrated from measuring consumption to measuring consequence.
 
@@ -33,7 +33,6 @@ This text is an independent reading and is not affiliated with, or endorsed by, 
 ## Build
 
 ```bash
-cd paper
 latexmk -pdf paper.tex
 ```
 
